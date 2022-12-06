@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Terraform Workshop 6 Desember 2022 - Rizqi Arif Wibowo.
+  Welcome to ${PREFIX}'s app v2. Terraform Workshop 6 Desember 2022 - Rizqi Arif Wibowo.
   <!-- END -->
 
   </div>
